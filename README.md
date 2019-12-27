@@ -1,3 +1,3 @@
 # hand_gestures_pytorch
 
-# camera based hand gestures dtection for music player control.
+# camera based hand gestures detection for music player control.
